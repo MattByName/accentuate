@@ -1,6 +1,6 @@
 {
-  "name": "Accentuate",
-  "description": "Simple accent and special character input tool",
+  "name": "accentuate",
+  "description": "Simple accent and special character tool",
   "uuid": "accentuate@contact.missingbit.co.uk",
   "shell-version": [
     "41"

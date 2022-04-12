@@ -1,0 +1,6 @@
+#+Title: Accentuate Project Doc
+
+* Phase 1
+
+** Sort characters into an array
+This is being done in [[src/characters.json][characters.json]] based on [[https://practicaltypography.com/common-accented-characters.html][Practical Typography: Common Accented Characters]]
